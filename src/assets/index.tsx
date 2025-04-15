@@ -1,3 +1,3 @@
-import Logo from './Logo.svg';
+import Frame from './Frame.svg';
 
-export {Logo};
+export {Frame};
